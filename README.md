@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BobuDragos&repo=windows-box-setup-scripts)]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BobuDragos&repo=graph_function)]
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobuDragos&show_icons=true&theme=dracula)
+
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobuDragos)](https://github.com/BobuDragos/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobuDragos&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobuDragos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
@@ -64,7 +76,7 @@
 <a href="https://github.com/BobuDragos/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BobuDragos" />
 </a>
-
+-->
 
 <!--
 **BobuDragos/BobuDragos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
