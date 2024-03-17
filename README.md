@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BobuDragos&repo=windows-box-setup-scripts)]
 
@@ -9,7 +10,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobuDragos&show_icons=true&theme=dracula)
-
+-->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobuDragos)](https://github.com/BobuDragos/github-readme-stats)
